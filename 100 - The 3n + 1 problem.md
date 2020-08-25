@@ -1,5 +1,5 @@
-# UVa_codes
-assignment for 1.2 S.P.L.S-2 
+//# UVa_codes
+//assignment for 1.2 S.P.L.S-2 
 #include <stdio.h>
 
 int main()
