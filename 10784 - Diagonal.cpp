@@ -1,6 +1,3 @@
-# UVa_codes
-Assignment for 1.2 S.P.L.S-2 
-Problem:- 10784 - Diagonal
 #include<bits/stdc++.h>
 #include<vector>
 using namespace std;
