@@ -1,4 +1,4 @@
-623 - 500!
+// 623 - 500!
 #include <bits/stdc++.h>
 using namespace std;
 int main()
