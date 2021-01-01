@@ -1,6 +1,3 @@
-# UVa_codes
-Problem ID. 10038 - Jolly Jumpers
-
 //----------------------Created by Anik Saha---------------------------//
 #include <bits/stdc++.h>
 using namespace std;
