@@ -1,5 +1,3 @@
-# UVa_codes
-assignment for 1.2 S.P.L.S-2 
 #include <iostream>
 #include <stdio.h>
 using namespace std;
