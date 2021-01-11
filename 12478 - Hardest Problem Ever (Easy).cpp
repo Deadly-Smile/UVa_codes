@@ -1,7 +1,5 @@
-# UVa_codes
-Assignment for 1.2 S.P.L.S-2 
 #include <iostream>
-int main()
+int main()  // seriously ??
 {
     std::cout<<"KABIR"<<std::endl;
     return 0;
