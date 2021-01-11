@@ -1,6 +1,3 @@
-# UVa_codes
-Problem ID.12207
-
 #include<cstdio>
 #include<string>
 #include<iostream>
