@@ -1,6 +1,3 @@
-# UVa_codes
-Assignment for 1.2 S.P.L.S-2 
-Problem:- 11805 - Bafana Bafana
 #include<bits/stdc++.h>
 int main()
 {
