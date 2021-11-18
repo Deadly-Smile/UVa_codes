@@ -1,6 +1,3 @@
-# UVa_codes
-Assignment for 1.2 S.P.L.S-2 
-Problem :- 401 - Palindromes
 #include<bits/stdc++.h>
 using namespace std;
 int main()
