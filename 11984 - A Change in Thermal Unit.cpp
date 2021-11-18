@@ -1,6 +1,3 @@
-# UVa_codes
-Assignment for 1.2 S.P.L.S-2 
-Problem:- 11984 - A Change in Thermal Unit
 #include<cstdio>
 #include<cmath>
 using namespace std;
