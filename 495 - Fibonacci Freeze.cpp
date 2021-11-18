@@ -1,11 +1,7 @@
-# UVa_codes
-Problem ID. 495 - Fibonacci Freeze
-
 #include <bits/stdc++.h>
 using namespace std;
 
 #define FastIO ios_base::sync_with_stdio(false);    cin.tie(NULL);
-
 #define testCase int test{0};   cin>>test;  while(test--)
 
 string arr[5000] = {"0","1","1"};
