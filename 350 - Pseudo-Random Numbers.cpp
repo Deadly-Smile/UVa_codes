@@ -1,6 +1,3 @@
-# UVa_codes
-Assignment for 1.2 S.P.L.S-2 
-Problem- 350 - Pseudo-Random Numbers
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;
