@@ -1,6 +1,3 @@
-# UVa_codes
-Assignment for 1.2 S.P.L.S-2 
-Problem:-483 - Word Scramble
 #include<bits/stdc++.h>
 using namespace std;
 int main()
